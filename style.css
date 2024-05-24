@@ -1,0 +1,45 @@
+.titulo{
+    background-color:white;
+    padding: 6px;
+    margin: 5px;
+    
+}
+body{
+    background-color: gainsboro;
+    padding: 6px;
+}
+.advertencia{
+    background-color: red;
+
+
+}
+.container{
+    background-color: aliceblue;
+margin: 5px 0px;
+padding: 6px;
+}
+.texto{
+    display: flex;
+    margin: 5px 0px;
+    padding: 6px;
+}
+.caja3{
+    display: flex;
+    margin: 5px 0px;
+    padding: 6px;
+}
+#caja4{
+    display: flex;
+    margin: 5px 0px;
+    padding: 6px;
+}
+#cajab{
+    display: flex;
+    margin: 5px 0px;
+    padding: 6px;
+}
+.message{
+    display: flex;
+    margin: 5px 0px;
+    padding: 6px;
+}
